@@ -4,6 +4,13 @@ A React-based single-page application designed for featuring a **store locator**
 
 ---
 
+### 🚀 Live Deployment
+The application is successfully deployed on Vercel. You can access the live version through the following link:
+
+🔗 **[Live Demo: Store Locator App](https://frontend-technical-assignment-five.vercel.app/)**
+
+---
+
 ## 1. Project Overview
 
 - **Framework**: React (Vite)
